@@ -25,3 +25,9 @@ multiplica as matrizes e imprime o resultado (produto).
 Currently available locales are:
 
 - Brazilian Portuguese (pt_br)
+
+## 👤 Developers
+- Alexandre Augusto
+- Felipe Yabiko      
+- João Victor Rokemback Tápparo       
+- Lucas Timponi    
