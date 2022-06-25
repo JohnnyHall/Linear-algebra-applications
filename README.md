@@ -31,3 +31,8 @@ Currently available locales are:
 - Felipe Yabiko      
 - João Victor Rokemback Tápparo       
 - Lucas Timponi    
+
+<p align="center">
+  Created on <br>
+  08/04/2022
+</p>
