@@ -1,25 +1,25 @@
 # 📐 Linear-algebra-applications
-Um programa feito exclusivamente para uma aula de álgebra linear na faculdade
+A program designed exclusively for a college linear algebra class
 
 ## 🎯 Objective
-Desenvolva um código que receba um vetor do plano cartesiano (2 coordenadas), receba um 
-ângulo de rotação e faça a rotação do vetor no ângulo dado. 
-<br>O código deve: 
-- Receber o vetor elemento a elemento. 
-- Receber o ângulo de rotação. 
-- Confirmar com o usuário se o ângulo dado é no sentido horário ou anti-horário. 
-- Aplicar a rotação solicitada. 
-- Imprimir o vetor resultante da rotação aplicada. 
+Develop a code that receives a vector from the Cartesian plane (2 coordinates), receives a
+rotation angle and rotate the vector by the given angle.
+<br>The code should:
+- Receive the vector element by element.
+- Receive rotation angle.
+- Confirm with the user whether the given angle is clockwise or counterclockwise.
+- Apply the requested rotation.
+- Print the resulting vector of the applied rotation.
  
-Escreva um código que recebe, elemento a elemento, duas matrizes A e B (com dimensões livres), 
-multiplica as matrizes e imprime o resultado (produto). 
-<br>O código deve: 
-- Perguntar o número de linhas e colunas de cada matriz e armazenar. 
-- Checar e avisar se o produto existe, solicitando alteração quando for o caso. 
-- Solicitar que o usuário informe todos os elementos (1 a 1) de cada matriz. 
-- Guardar esses elementos nas matrizes A e B. 
-- Fazer a multiplicação e guardar numa matriz C. 
-- Imprimir o resultado (matriz C).
+Write a code that receives, element by element, two matrices A and B (with free dimensions),
+multiplies the matrices and prints the result (product).
+<br>The code should:
+- Ask the number of rows and columns of each matrix and store.
+- Check and notify if the product exists, requesting changes when necessary.
+- Ask the user to inform all the elements (1 to 1) of each matrix.
+- Store these elements in matrices A and B.
+- Do the multiplication and save in a matrix C.
+- Print the result (C matrix).
 
 ## 🌎 Locales
 Currently available locales are:
