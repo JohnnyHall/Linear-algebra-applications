@@ -1,5 +1,5 @@
 # 📐 Linear-algebra-applications
-A program designed exclusively for a college linear algebra class
+> A program designed exclusively for a college linear algebra class
 
 ## 🎯 Objective
 Develop a code that receives a vector from the Cartesian plane (2 coordinates), receives a
